@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="Ratville Altador Cup Leaderboard">
+<meta property="og:description" content="How do you stack up to other rats?">
+<meta property="og:url" content="https://rawxbee.github.io/ac">
+<style>
+html, body {
+  overflow-x: hidden;
+}
+body:before {
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("https://i.imgur.com/t1TDF3H.png");
+}
+.oddcontainer {
+background: url('https://images.neopets.com/altador/altadorcup/2011/main/results/bg.png');
+width: 540px;
+height: 176px;
+}
+.evencontainer {
+background: url('https://i.imgur.com/N8n2ppP.png');
+width: 540px;
+height: 176px;
+}
+.first {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/kikolake/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.second {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.third {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/altador/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.fourth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/kikolake/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.fifth {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/terrormountain/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sixth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.seventh {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.eigth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.ninth {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/meridell/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.tenth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybwins {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/toy_kreludor_yooyuball.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybgoals {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/mall_hh_teamballkreludor.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybgpg {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/mall_hh_kikoracket.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.slslwins {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/acs_rooisland_bottle.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.slslscore {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/gif_altcp_mug_riacvi.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.msnwins {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/acs_rooisland_megaphone.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.msnscore {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/acs_rooisland_hand.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sosdwins {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_acy15vii_acty_al.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sosdscore {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/mall_altcupjersey_kiko.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybt {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_advc17_clockyooyu.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.gt {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/altcp_fireyooyuplushie.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.slslt {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_sst_plushie.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.msnt {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/toy_acy20xiii_techoaction.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sosdt {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_jellychia_goalie.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.t {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/altcp_altador_drinkcup.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.oddtext {
+  position: relative;
+  top: -115px;
+  margin-right: -524px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+.eventext {
+  position: relative;
+  top: -115px;
+  margin-left: -512px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+.oddtextmvp {
+  position: relative;
+  top: -0px;
+  margin-right: -524px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+.eventextmvp {
+  position: relative;
+  top: 0px;
+  margin-left: -512px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+h2
+{
+  font-size: 20px;
+}
+@media only screen and (max-width: 730px) {
+    .oddcontainer,
+    .evencontainer {
+-webkit-transform:scale(0.7);
+-moz-transform:scale(0.7);
+-ms-transform:scale(0.7);
+transform:scale(0.7);
+margin-left: -16%;
+}
+}
+
+</style>
+</head>
+<body>
+<center>
+<img src="https://i.imgur.com/dHhlN46.png" width="200px"><br> <img src="https://api.nitestats.com/v1/fnfontgen?text=The%20Top%2010&amp;color=fbab26&amp;size=150" width="40%">
+
+<div class="oddcontainer">
+<div class="first">
+<div style="padding: 15px;">
+1
+</div>
+<div class="oddtext">
+theguy2020<br>
+<h2>15,797 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="second">
+<div style="padding: 15px;">
+2
+</div>
+<div class="eventext">
+superkathiee<br>
+<h2>15,453 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="third">
+<div style="padding: 15px;">
+3
+</div>
+<div class="oddtext">
+danithedinosaur<br>
+<h2>12,022 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="fourth">
+<div style="padding: 15px;">
+4
+</div>
+<div class="eventext">
+orangevented<br>
+<h2>11,834 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="fifth">
+<div style="padding: 15px;">
+5
+</div>
+<div class="oddtext">
+coconut_rat<br>
+<h2>10,819 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="sixth">
+<div style="padding: 15px;">
+6
+</div>
+<div class="eventext">
+snowqueendetejas<br>
+<h2>10,376 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="seventh">
+<div style="padding: 15px;">
+7
+</div>
+<div class="oddtext">
+blumaroocrazy21<br>
+<h2>8,870 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="eigth">
+<div style="padding: 15px;">
+8
+</div>
+<div class="eventext">
+sportsagain<br>
+<h2>8,814 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="ninth">
+<div style="padding: 15px;">
+9
+</div>
+<div class="oddtext">
+therainbowsheep<br>
+<h2>8,811 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="tenth">
+<div style="padding: 15px;">
+10
+</div>
+<div class="eventext">
+kat_bus<br>
+<h2>8,800 POINTS</h2>
+</div>
+</div>
+</div>
+<br>
+<img src="https://api.nitestats.com/v1/fnfontgen?text=Most%20Valuable%20Players&amp;color=fbab26&amp;size=150" width="40%">
+
+<div class="oddcontainer">
+<div class="yybwins">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+rawbeee<br>
+<h2>1,012 YYB WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="yybgoals">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+rawbeee<br>
+<h2>11,963 YYB GOALS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="yybgpg">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+orangevented<br>
+<h2>12.96 YYB GPG</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="slslwins">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+superkathiee<br>
+<h2>303 SLSL WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="slslscore">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+superkathiee<br>
+<h2>1,295 SLSL HIGH SCORE</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="msnwins">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+superkathiee<br>
+<h2>2,121 MSN WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="msnscore">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+superkathiee<br>
+<h2>8,846 MSN HIGH SCORE</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="sosdwins">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+danithedinosaur<br>
+<h2>8,822 SOSD WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="sosdscore">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+orangevented<br>
+<h2>1,208 SOSD HIGH SCORE</h2>
+</div>
+</div>
+</div>
+<br>
+<img src="https://api.nitestats.com/v1/fnfontgen?text=Totals&amp;color=fbab26&amp;size=150" width="15%">
+
+<div class="evencontainer">
+<div class="yybt">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+5,951<br>YYB WINS
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="gt">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+63,770<br>YYB GOALS
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="slslt">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+758<br>SLSL WINS
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="msnt">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+5,727<br>MSN WINS
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="sosdt">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+56,804<br>SOSD WINS
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="t">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+138,503<br>POINTS
+</div>
+</div>
+</div>
+
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="Ratville Altador Cup Leaderboard">
+<meta property="og:description" content="How do you stack up to other rats?">
+<meta property="og:url" content="https://rawxbee.github.io/ac">
+<style>
+html, body {
+  overflow-x: hidden;
+}
+body:before {
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url("https://i.imgur.com/t1TDF3H.png");
+}
+.oddcontainer {
+background: url('https://images.neopets.com/altador/altadorcup/2011/main/results/bg.png');
+width: 540px;
+height: 176px;
+}
+.evencontainer {
+background: url('https://i.imgur.com/N8n2ppP.png');
+width: 540px;
+height: 176px;
+}
+.first {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/kikolake/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.second {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.third {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/altador/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.fourth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/kikolake/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.fifth {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/terrormountain/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sixth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.seventh {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.eigth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.ninth {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/meridell/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.tenth {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png');
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybwins {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/toy_kreludor_yooyuball.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybgoals {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/mall_hh_teamballkreludor.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybgpg {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/mall_hh_kikoracket.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.slslwins {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/acs_rooisland_bottle.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.slslscore {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/gif_altcp_mug_riacvi.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.msnwins {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/acs_rooisland_megaphone.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.msnscore {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/acs_rooisland_hand.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sosdwins {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_acy15vii_acty_al.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sosdscore {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/mall_altcupjersey_kiko.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.yybt {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_advc17_clockyooyu.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.gt {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/altcp_fireyooyuplushie.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.slslt {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_sst_plushie.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.msnt {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/toy_acy20xiii_techoaction.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.sosdt {
+  position: relative;
+  top: 15px;
+  margin-left: 335px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/plu_jellychia_goalie.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.t {
+  position: relative;
+  top: 15px;
+  margin-right: 345px;
+  width: 140px;
+  height: 140px;
+  background: url('https://images.neopets.com/items/altcp_altador_drinkcup.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 100px;
+  color: white;
+  text-shadow: 0 0 6px red, 0 0 8px gold, 0 0 10px black;
+}
+.oddtext {
+  position: relative;
+  top: -115px;
+  margin-right: -524px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+.eventext {
+  position: relative;
+  top: -115px;
+  margin-left: -512px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+.oddtextmvp {
+  position: relative;
+  top: -0px;
+  margin-right: -524px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+.eventextmvp {
+  position: relative;
+  top: 0px;
+  margin-left: -512px;
+  width: 308px;
+  height: 30px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0 0 0px black !important;
+}
+h2
+{
+  font-size: 20px;
+}
+@media only screen and (max-width: 730px) {
+    .oddcontainer,
+    .evencontainer {
+-webkit-transform:scale(0.7);
+-moz-transform:scale(0.7);
+-ms-transform:scale(0.7);
+transform:scale(0.7);
+margin-left: -16%;
+}
+}
+
+</style>
+</head>
+<body>
+<center>
+<img src="https://i.imgur.com/dHhlN46.png" width="200px"><br> <img src="https://api.nitestats.com/v1/fnfontgen?text=The%20Top%2010&amp;color=fbab26&amp;size=150" width="40%">
+
+<div class="oddcontainer">
+<div class="first">
+<div style="padding: 15px;">
+1
+</div>
+<div class="oddtext">
+theguy2020<br>
+<h2>15,797 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="second">
+<div style="padding: 15px;">
+2
+</div>
+<div class="eventext">
+superkathiee<br>
+<h2>15,453 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="third">
+<div style="padding: 15px;">
+3
+</div>
+<div class="oddtext">
+danithedinosaur<br>
+<h2>12,022 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="fourth">
+<div style="padding: 15px;">
+4
+</div>
+<div class="eventext">
+orangevented<br>
+<h2>11,834 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="fifth">
+<div style="padding: 15px;">
+5
+</div>
+<div class="oddtext">
+coconut_rat<br>
+<h2>10,819 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="sixth">
+<div style="padding: 15px;">
+6
+</div>
+<div class="eventext">
+snowqueendetejas<br>
+<h2>10,376 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="seventh">
+<div style="padding: 15px;">
+7
+</div>
+<div class="oddtext">
+blumaroocrazy21<br>
+<h2>8,870 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="eigth">
+<div style="padding: 15px;">
+8
+</div>
+<div class="eventext">
+sportsagain<br>
+<h2>8,814 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="ninth">
+<div style="padding: 15px;">
+9
+</div>
+<div class="oddtext">
+therainbowsheep<br>
+<h2>8,811 POINTS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="tenth">
+<div style="padding: 15px;">
+10
+</div>
+<div class="eventext">
+kat_bus<br>
+<h2>8,800 POINTS</h2>
+</div>
+</div>
+</div>
+<br>
+<img src="https://api.nitestats.com/v1/fnfontgen?text=Most%20Valuable%20Players&amp;color=fbab26&amp;size=150" width="40%">
+
+<div class="oddcontainer">
+<div class="yybwins">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+rawbeee<br>
+<h2>1,012 YYB WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="yybgoals">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+rawbeee<br>
+<h2>11,963 YYB GOALS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="yybgpg">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+orangevented<br>
+<h2>12.96 YYB GPG</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="slslwins">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+superkathiee<br>
+<h2>303 SLSL WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="slslscore">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+superkathiee<br>
+<h2>1,295 SLSL HIGH SCORE</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="msnwins">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+superkathiee<br>
+<h2>2,121 MSN WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="msnscore">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+superkathiee<br>
+<h2>8,846 MSN HIGH SCORE</h2>
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="sosdwins">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+danithedinosaur<br>
+<h2>8,822 SOSD WINS</h2>
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="sosdscore">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+orangevented<br>
+<h2>1,208 SOSD HIGH SCORE</h2>
+</div>
+</div>
+</div>
+<br>
+<img src="https://api.nitestats.com/v1/fnfontgen?text=Totals&amp;color=fbab26&amp;size=150" width="15%">
+
+<div class="evencontainer">
+<div class="yybt">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+5,951<br>YYB WINS
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="gt">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+63,770<br>YYB GOALS
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="slslt">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+758<br>SLSL WINS
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="msnt">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+5,727<br>MSN WINS
+</div>
+</div>
+</div>
+
+<div class="evencontainer">
+<div class="sosdt">
+<div style="padding: 15px;">
+</div>
+<div class="eventextmvp">
+56,804<br>SOSD WINS
+</div>
+</div>
+</div>
+
+<div class="oddcontainer">
+<div class="t">
+<div style="padding: 15px;">
+</div>
+<div class="oddtextmvp">
+138,503<br>POINTS
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
