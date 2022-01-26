@@ -1,0 +1,647 @@
+Chocolate Coated Peanut Butter (r48) : 667
+White Chocolate Kiko (r49) : 277
+Chocolate Moehog Coin (r35) : 2024
+Milk Chocolate Kyrii (r35) : 1458
+White Chocolate Uni (r40) : 2667
+Milk Chocolate Nimmo (r40) : 2049
+Milk Chocolate Korbat (r40) : 357
+Milk Chocolate Usul (r40) : 1220
+White Chocolate Eyrie (r40) : 1174
+White Chocolate Kyrii (r40) : 1003
+Gummy Gold Usul (r94) : 5000
+Gummy Gold Kyrii (r93) : 10000
+Gummy Gold Blumaroo (r94) : 5000
+Angry Chocolate Pet Tokens (r90) : 5000
+Glitter Star Candy (r90) : 5000
+Bubble Gum (r15) : 604
+Candy Cane (r20) : 257
+Chocolate Coated Marshmallow (r20) : 796
+Assorted Neodrops (r25) : 516
+Lemon Sweetie (r26) : 408
+Fudge (r26) : 600
+Orange Sweetie (r27) : 543
+Raspberry Sweetie (r28) : 651
+Strawberry Gummy Flotsam (r28) : 352
+Strawberry Jelly Chia (r28) : 884
+White Chocolate Scorchio (r55) : 665
+Milk Chocolate Lenny (r55) : 753
+Rainbow Breath Mints (r55) : 1257
+Lime Jelly JubJub (r57) : 992
+Fruity Jubpops (r60) : 907
+Chocolate Chia Truffle (r60) : 1198
+Assorted Gummy Dice (r60) : 2382
+Toffee Apple (r60) : 826
+Darigan Eyrie Paw Lolly (r66) : 1660
+Chocolate Mint Kougra (r68) : 2140
+Chocolate Covered Lime Gummy Gem (r68) : 1370
+Chocolate Dipped Pteri Tail (r70) : 2137
+Chocolate Man (r70) : 2114
+Milk Chocolate Elephante (r70) : 1398
+Gingerbread Korbat (r70) : 298
+Rotten Egg Grarrl Gobstopper (r70) : 410
+Chocolate Cybunny Paw (r70) : 1334
+Chocolate Negg (r70) : 1906
+Marshmallow Elephante (r70) : 2417
+Jelly Lenny Beaks (r70) : 2448
+Blueberry Candy Cane (r75) : 830
+Mynci Tail Lollypops (r75) : 2679
+Orange Chocolate Grarrl (r76) : 953
+Dark Chocolate Aisha (r76) : 824
+Peppermint Gormball Gumball (r78) : 625
+Lemon Chia Treat (r78) : 646
+Lime Whirlpool Candy (r78) : 1212
+Dark Chocolate Bruce (r78) : 1040
+Mega Minty Korbat Cake (r80) : 1363
+Dark Chocolate Peophin (r80) : 2864
+Milk Chocolate Grundo (r80) : 1000
+Strawberry Techo Pop (r80) : 1029
+Chewy Strawberry Aisha Ears (r80) : 2039
+Chocolate Ixi Leaf (r80) : 1367
+Sherbert Lemons (r80) : 1530
+Fyora Lollyswirl (r80) : 1045
+Blueberry Grundo Lollypop (r80) : 1086
+Blechy Gummies (r82) : 1682
+Starberry Covered Dirt (r82) : 1404
+Orange Chocolate Kiko (r82) : 1020
+Tonu Horn on a Stick (r82) : 908
+Tigerfruit Candy Cane (r84) : 958
+Chocolate Covered Cherries (r84) : 803
+Milk Chocolate Hollow Cybunny (r85) : 2500
+Mint Chocolate Poogle (r85) : 2500
+Milk Chocolate Hollow Kacheek (r86) : 2500
+Lemon Quiggle Pop (r86) : 2500
+Iced Uni Cookie (r86) : 2500
+Orange Gummy Scorchio (r86) : 2500
+Yellow Gummy Meerca (r87) : 2500
+Chocolate Gelert Heads (r87) : 2500
+Lovely Lime Grarrl Gobstopper (r87) : 2500
+Tchea Krawkberry (r87) : 2500
+Lime Eliv Thade Lolly (r87) : 3477
+Black Currant Shoyru Sweet (r88) : 2500
+Green Gummy Meerca (r88) : 2500
+Dark Kiko Chocolates (r88) : 2500
+Chocolate Cannon Ball (r88) : 2500
+Lemon Draik Lollypop (r88) : 2500
+Grape Poogle Pop (r88) : 1251
+Apple Gummy Chia (r88) : 2500
+Lemon Lupe Lollypop (r89) : 2500
+Lime Gummy Kiko (r89) : 2500
+Chocolate Tchea Truffle (r89) : 1251
+Strawberry Koi Pop (r89) : 2500
+Nutty Kiko Chocolates (r89) : 2500
+Raspberry Gummy Scorchio (r89) : 2500
+Lime Pteripop (r89) : 2500
+Lemon Pteripop (r89) : 2500
+Black Currant Quiggle Pop (r89) : 2500
+Lime Shoyru Sweet (r89) : 2500
+Lime Poogle Pop (r89) : 2500
+Gummy Hannah (r89) : 2500
+Chocolate Kiko Bandage (r89) : 2500
+Chocolate Grape Fondant (r89) : 2500
+Large Milk Chocolate Cybunny (r89) : 2500
+Sweet Necklace (r90) : 5000
+Dark Chocolate Poogle (r90) : 5000
+Juppiemint Bar (r90) : 5000
+Baby Cabbage Jelly Beans (r90) : 2501
+Raspberry and Vanilla Nova (r90) : 5000
+Orange Gummy Stamp (r90) : 5000
+Dark Chocolate Shoyru (r91) : 5000
+Dark Chocolate Scorchio (r91) : 5000
+Apple Sweetie (r25) : 1307
+Strawberry Jelly JubJub (r29) : 569
+Lollypop (r35) : 259
+Milk Chocolate Scorchio (r35) : 2401
+Chocolate Coated Mint Bar (r35) : 168
+Chocolate Coated Pretzel (r35) : 1610
+Kyrii Pop (r35) : 1397
+White Chocolate Wocky (r35) : 1164
+White Chocolate Chia (r50) : 1472
+White Chocolate Peophin (r50) : 1698
+Fruity Korbites (r50) : 2350
+Mint Chocolate Ogrin (r51) : 1142
+Milk Chocolate Ogrin (r52) : 831
+Dark Chocolate Ogrin (r53) : 1218
+Chocolate Coated Lolly (r55) : 928
+White Chocolate Gelert (r55) : 1253
+Milk Chocolate Buzz (r55) : 827
+Milk Chocolate Flotsam (r55) : 1173
+White Chocolate Jetsam (r60) : 1304
+Orange Gummy Quiggles (r60) : 1654
+Raspberry Nimmo Bites (r65) : 1017
+Sweet Baked Beans (r80) : 2721
+Asparagus Chia Treat (r80) : 1006
+Assorted Pear Drops (r80) : 1632
+Gummy Walking Carpet Candies (r81) : 2303
+Blueberry Sugared Gelert Gummy (r82) : 1153
+Chocolate Draik Lollypop (r89) : 2500
+Fruitmallow Toffee Apple (r89) : 2500
+Large Dark Chocolate Cybunny (r89) : 2500
+Lemon Sherbert Jelly Beans (r90) : 5000
+Orange Chocolate Pyramid (r90) : 5000
+Red Buzz Lolly (r90) : 2501
+Toffee Dubloon (r91) : 5000
+Fluff N Stuff Grarrl Gobstopper (r92) : 5000
+Apple and Custard Drops (r93) : 5000
+Mint Chocolate Peophin (r94) : 5000
+Lime Jelly Acara (r65) : 1048
+White Chocolate Grarrl (r65) : 687
+Apple Jelly Flotsam (r88) : 2500
+Strawberry Cooty Lollypop (r88) : 1251
+Thornberry Shoyru Sweet (r88) : 2500
+Gooey Strawberry Grarrl (r88) : 2500
+Chocolate Seashell Sculpture (r88) : 2500
+Strawberry Kacheek Drops (r89) : 2500
+Chocolate Gormballs (r89) : 3269
+Coconut Ice (r89) : 2500
+Blueberry Jelly Flotsam (r89) : 2500
+Orange Chocolate Scorchio (r90) : 5000
+Peophin Chocolate Medallion (r90) : 5000
+Chocolate Balthazar (r90) : 5000
+Charcoal Jelly Beans (r90) : 5000
+Mint Chocolate Kacheek (r90) : 5000
+Dark Chocolate Tuskaninny (r90) : 5000
+Buzz Chocolate Bar (r90) : 5000
+Large White Chocolate Cybunny (r90) : 2501
+Candy Pirate Earrings (r90) : 5000
+Ummagine Candy Cane (r91) : 5000
+Mint Chocolate Lupe (r91) : 5000
+Blueberry Gummy Stamp (r91) : 5000
+Jelly Bean Pirate Chest (r91) : 2501
+Strawberry Fondant Surprise (r92) : 5000
+Codestone Truffle (r92) : 5000
+Mint Chocolate Blumaroo (r92) : 5000
+Dark Chocolate Skeith (r92) : 5000
+Lime Skidget Lolly (r92) : 2501
+Mud Lollipop (r92) : 7378
+White Chocolate Nova (r92) : 5000
+Chocolate King Skarl (r92) : 2627
+Banana Jelly Flotsam (r93) : 5000
+Cherry Aboogala Lolly (r93) : 5000
+Kau Sundae (r93) : 9483
+Mint Chocolate Chia (r93) : 5000
+Chocolate Jeran (r94) : 5131
+Lemon Bumbluz Lolly (r94) : 5000
+Bullseyes (r94) : 5000
+Large Swirly Chocolate Cybunny (r94) : 2501
+Minty Choccywhip (r94) : 5000
+Yummy Drops (r95) : 10000
+Super Spicy Jelly Beans (r95) : 10000
+Chocolate Dr Sloth (r95) : 10000
+Grape Gummy Slorg (r95) : 10000
+Chocolate Cybunny Negg (r95) : 10000
+Sugar Bunny (r40) : 539
+Strawberry Heartcicle (r85) : 2500
+Box of Chocolate Chias (r85) : 2500
+Strawberry Kougra Pop (r85) : 2500
+Brain Tree Lolly (r85) : 2500
+Strawberry Flotsam Lollypop (r85) : 2500
+Chocolate Moehogs (r85) : 2500
+Milk Chocolate Rose (r85) : 2500
+Orange Chocolate Lupe (r85) : 2500
+Outrageous Orange Grarrl Gobstopper (r85) : 2500
+Strochal (r85) : 2500
+Lemon Sugared Gelert Gummy (r85) : 2500
+Wocky Meringue (r85) : 2500
+Honey and Mustard Jelly Beans (r85) : 1251
+Cherry Zafara Gummy (r85) : 2500
+Lemon Bon Bons (r85) : 2500
+Fizzy Neocola Bottles (r85) : 2500
+Rhubarb and Custard Sweets (r85) : 2500
+Milk Chocolate Hollow Chia (r85) : 2500
+Mint Chocolate Nova (r85) : 2500
+Strawberry Draik Lollypop (r86) : 2500
+Heart Shaped Chocolates (r86) : 2500
+Luscious Lemon Grarrl Gobstopper (r86) : 2745
+Toffee Eyrie on a Stick (r86) : 2500
+Candy Yurble Bracelet (r86) : 2500
+Mint Chocolate Grundo (r86) : 2500
+Gooey White Chocolate Grarrl (r86) : 2500
+Dark Chocolate Hearts (r86) : 2500
+Milk Kiko Chocolates (r86) : 2500
+Raspberry Grundo Lollypop (r86) : 2500
+Licorice Zafara Tail (r86) : 2500
+Lime Techo Pop (r86) : 2500
+Orange Chocolate Moehog (r86) : 2500
+Deluxe Toffee Apple (r86) : 2500
+Strawberry Bon Bons (r86) : 2500
+Blueberry Grarrl Pop (r86) : 2500
+Grape Arnold Lolly (r86) : 2604
+Asparagus Candy Cane (r86) : 2500
+Mint Chocolate Pteri (r86) : 2500
+Valentines Heart Shaped Chocolate Box (r86) : 2500
+Dark Chocolate Kougra (r87) : 2500
+Tigerfruit Krawkberry (r87) : 2500
+Chocolate Grarrl Ice Cream (r87) : 2500
+Orange Chocolate Mynci (r87) : 2500
+Grape Gummy Scorchio (r87) : 2500
+Black Currant Tuskaninny Lolly (r87) : 2500
+Licorice Twists (r87) : 2500
+Grape Sugared Slorg (r87) : 2500
+Cherry Gummy Korbat Tail (r87) : 2500
+Lime Draik Lollypop (r87) : 2500
+Rainbow Yurble Lollypop (r87) : 2500
+Cherry Shoyru Sweet (r87) : 2500
+Sporkle Leg Jelly Beans (r87) : 2500
+Cherry Pteripop (r87) : 2500
+Chocolate Sugared Slorg (r87) : 2500
+Strawberry Sugared Slorg (r87) : 2500
+White Chocolate Hollow Kacheek (r87) : 1251
+Sssidney Lolly (r87) : 2968
+Lime Nimmo Pop (r87) : 2500
+White Kiko Chocolates (r87) : 2500
+Zeenana Krawkberry (r87) : 1251
+Strawberry Jelly Flotsam (r87) : 1251
+Lime Gummy Slorg (r87) : 1797
+Lime Aisha Lollypop (r87) : 2500
+Strawberry Poogle Pop (r87) : 2500
+Orange Kacheek Drops (r87) : 2500
+Blueberry Sugared Slorg (r87) : 2500
+Chokato Gummy Chia (r87) : 2500
+Red Gummy Meerca (r87) : 2500
+White Chocolate Grarrl Teeth (r88) : 2500
+Punchbag Bob Lolly (r88) : 2500
+Blueberry Pteripop (r88) : 2500
+Lemon Aisha Lollypop (r88) : 2500
+Black Currant Scorchipop (r88) : 1251
+White Strochal (r88) : 2500
+Orange Chocolate Nimmo (r88) : 2500
+Orange Poogle Pop (r88) : 2500
+Orange Chocolate Hollow Chia (r88) : 1251
+Orange Scorchipop (r88) : 2500
+Lime Kacheek Drops (r88) : 2500
+Orange Chocolate Hollow Kacheek (r88) : 2500
+Black Currant Kacheek Drops (r88) : 2500
+Orange Gummy Korbat Tail (r88) : 2500
+Chocolate Covered Caramel Corn (r88) : 2500
+Chocolate Slime Burger (r88) : 2500
+Banana Achyfi Lollypop (r88) : 1251
+Vanilla Sugared Slorg (r88) : 2500
+Peach Gummy Chia (r88) : 2500
+Lime Quiggle Pop (r88) : 2500
+White Chocolate Hollow Cybunny (r88) : 2500
+Pirate Hat Toffees (r89) : 2500
+Blueberry Gummy Korbat Tail (r89) : 2500
+Orange Chocolate Quiggle (r89) : 1251
+Assorted Jelly Beans (r89) : 2500
+Deluxe Lime Toffee Juppie (r89) : 2500
+Cherry Aisha Lollypop (r89) : 2500
+Cherry Chomby Lolly (r89) : 2500
+Lime Ruki Lollypop (r89) : 2500
+Punchbag Sid Lolly (r89) : 1251
+Mint Chocolate Scorchio (r89) : 2500
+Pineapple Gummy Chia (r89) : 2500
+Marzipan Sugared Slorg (r89) : 1251
+Chokato Volcano (r89) : 2500
+Chocolate Cracker (r89) : 2500
+Cranberry Gummy Stamp (r89) : 2500
+Grapefruit Grundo Lollypop (r89) : 2500
+Sherbert Strawberries (r89) : 2500
+Dark Chocolate Flotsam (r85) : 2500
+Caramel Kiko Sweets (r85) : 1251
+Chocolate Aisha Ears (r86) : 2500
+Raspberry Swirl Grarrl Cookie (r86) : 2500
+Love Shake Chocolate (r86) : 2500
+Blue Gummy Meerca (r86) : 1251
+White Chocolate Hollow Chia (r86) : 2500
+Orange Chocolate Snowflake (r87) : 2500
+Plain Chocolate Hollow Cybunny (r87) : 2500
+Strawberry Ixi Pop (r87) : 1251
+Orange Quiggle Pop (r87) : 2500
+Strawberry Caramel Zafara (r87) : 2500
+Humbugs (r87) : 2500
+Mint Chocolate Nimmo (r88) : 2500
+Grape Gummy Stamp (r88) : 2500
+Chocolate Covered Marshmallow Zafara (r88) : 2500
+Gooseberry Gummy Scorchio (r88) : 2500
+Thornberry Krawkberry (r88) : 2500
+Pirate Hook Candy Cane (r88) : 2500
+Strawberry Grarrl Pop (r88) : 2500
+Yurble Candy Floss (r88) : 2500
+Lemon Koi Pop (r88) : 2500
+Avocado Gummy Korbat Tail (r88) : 2500
+Stupendous Strawberry Grarrl Gobstopper (r88) : 3949
+Cherry Sugared Slorg (r88) : 2500
+Blueberry Aisha Lollypop (r88) : 2500
+Lemon Ixi Pop (r89) : 2500
+Mint Chocolate Shoyru (r89) : 2500
+Yurble Peppermint (r85) : 2500
+Mint Chocolate Koi (r87) : 2500
+Dark Chocolate Lenny (r88) : 2500
+Milk Chocolate Wocky (r30) : 215
+Milk Chocolate Lupe (r30) : 261
+Lime Jelly Blumaroo (r30) : 2163
+White Chocolate Tuskaninny (r40) : 1094
+Root Beer Barrels (r80) : 3101
+Heart Shaped Bon Bons (r80) : 3884
+Strawberry Achyfi Lollypop (r80) : 1481
+Rosy Apples (r80) : 1643
+Banana Gummy Slorg (r80) : 4765
+Dark Chocolate Techo (r80) : 736
+Dried Lotus Root Sweets (r80) : 908
+Chocolate Wocky Paws (r80) : 1199
+Grape Blumaroo Gummy Die (r80) : 1471
+Sour Lemon Lolly (r80) : 1188
+Tooth Faerie Sweets (r80) : 981
+Melon-Berry Gummies (r80) : 1251
+Rainbow Elephante Lolly (r80) : 3535
+Strawberry Meerca Lolly (r80) : 3047
+Grape Peophin Lollypop (r80) : 3105
+Dried Longan Sweets (r80) : 691
+Gooseberry Snorkle Lollypop (r80) : 1164
+Neocola Bottles (r80) : 2042
+Dark Chocolate Buzz (r80) : 1812
+Strawberry Neodrops (r80) : 1138
+Orange Chocolate Kacheek (r80) : 1794
+Sludge Filled Jelly Beans (r80) : 1045
+Minty Chomby Lolly (r80) : 1379
+Milk Chocolate Kacheek (r80) : 670
+Dried Kumquat Sweets (r80) : 1170
+Assorted Tonu Chocolates (r80) : 3245
+Strawberry Tuskaninny Lolly (r80) : 856
+Yellow Techo Pop (r80) : 975
+Dark Chocolate Gnorbu (r80) : 658
+Chocolate Honey Buzz Bar (r80) : 1177
+Milk Chocolate Tuskaninny (r80) : 530
+Strawberry Chocolate Krawk Coin (r80) : 1796
+Milk Chocolate Hissi (r80) : 977
+Lightning Bolt Lollypop (r80) : 1589
+Lime Grarrl Pop (r80) : 876
+Milk Chocolate Nova (r80) : 1295
+Wintermelon Sweets (r80) : 498
+Rainbow Neodrops (r80) : 4860
+Green Lab Jellies Candy (r80) : 1474
+Chocolate Moehog Head (r80) : 1239
+Pineapple Lollypop (r80) : 1646
+Lemon Gummy Sword (r81) : 1118
+Fire Candyfloss (r81) : 1166
+Tarragon Achyfi Lollypop (r81) : 944
+Rainbow Doughnutfruit Lolly (r81) : 1778
+Orange Blumaroo Gummy Die (r81) : 1325
+Blue Lab Jellies Candy (r81) : 1687
+Chocolate Tetraberry Pteri Eggs (r81) : 1507
+Fun and Happytime Gum (r81) : 1223
+Lemon Gummy Kiko (r82) : 865
+Wartroot Snorkle Lollypop (r82) : 833
+Peppermint Praline Bar (r82) : 1000
+Grape Gummy Mallet (r82) : 1255
+Creamy Stick Biscuit (r82) : 900
+Strawberry Lupe Hard Candy (r82) : 1269
+Green Pear Drops (r82) : 1549
+Chocolate Uni Print (r82) : 694
+Caramel Cream Grarrl Foot (r82) : 936
+Lime Grundo Lollypop (r82) : 1045
+Dark Chocolate Chia (r82) : 1591
+Lemon Tuskaninny Lolly (r83) : 729
+Heart Shaped Box of Toffee (r83) : 1965
+Dark Chocolate Cybunny (r83) : 1321
+Lemon Grarrl Pop (r83) : 1113
+Pineapple Blumaroo Gummy Die (r83) : 1563
+Royalty Golden Biscuit (r83) : 1495
+Jack-O-Lantern Pail (r83) : 805
+Cherry Gummy Mace (r83) : 1442
+Flotsam Snowberry Lollypop (r83) : 1271
+Gooey Chocolate Grarrl (r83) : 747
+Apple Sugared Gelert Gummy (r83) : 1306
+Strawberry Mynci Lollypop (r83) : 1051
+Blueberry Techo Pop (r83) : 1255
+Raspberry Jelly Heart (r83) : 1478
+Chocolate Chia Jam (r83) : 1195
+Destruct-O Strawberry Gum (r84) : 1463
+Chocolate Honey (r84) : 2279
+Berry Sugared Gelert Gummy (r84) : 1847
+Asparatastic Crunch (r84) : 519
+Dark Chocolate Elephante (r84) : 1300
+Orange Chocolate Korbat (r84) : 785
+Orange Gummy Kiko (r84) : 1069
+Lime Tuskaninny Lolly (r84) : 981
+Sour Apple Gummy Gloves (r84) : 1426
+Rainbow Chia Gumball (r84) : 2126
+Frosty Chewing Gum (r84) : 1255
+Mint Chocolate Moehog (r82) : 1533
+Strawberry Blumaroo Gummy Die (r82) : 1421
+Chocolate Grarrl on a Stick (r82) : 869
+Orange Chocolate Nova (r83) : 1246
+Orange Chocolate Koi (r83) : 1002
+Mint Chocolate Uni (r84) : 989
+Dried Date Sweets (r80) : 516
+Mallowicious Bar (r80) : 1712
+Chocolate Swirl Nova (r80) : 1558
+Chocolate and Cream Kyrii (r80) : 1065
+Baby Cybunny Chocolate Egg (r80) : 1169
+Chocolate Lenny on a Stick (r80) : 1887
+Mint Chocolate Kau (r82) : 985
+Balloon-Shaped Ring Lolly (r84) : 1321
+Skeith Chocolate Dubloon (r84) : 1110
+Chocolate Grarrl Tail (r84) : 951
+Chocolate Neodrops (r65) : 1092
+Milk Chocolate Gelert (r40) : 1016
+Angry Emoticon Hearts (r44) : 368
+White Chocolate Usul (r45) : 588
+Fruit Sensation Korbat Cake (r75) : 1701
+Dark Chocolate Acara (r75) : 1502
+Lime Neodrops (r75) : 1601
+Koyle Snorkle Lollypop (r75) : 1068
+Nerkin Jelly Beans (r75) : 1924
+Rainbow Gummy Die (r75) : 2132
+Chocolate Chia Cookie (r75) : 1519
+Mint Chocolate Wocky (r75) : 956
+Gummy Orange Chia (r75) : 1275
+Chocolate Pteri Eggs (r75) : 1393
+Mouldy Chocolate Heart (r75) : 1482
+Raspberry Neodrops (r75) : 2720
+Lime Gummy Book (r76) : 1638
+Chocolate Zafara (r76) : 1261
+Mustard Mayhem Grarrl Gobstopper (r76) : 3028
+Super Sticky Kacheek Candy Apple (r76) : 1338
+White Chocolate Ruki (r76) : 1139
+White Chocolate Krawk Coin (r77) : 1299
+Aisha Lollyswirl (r77) : 856
+Orange Chocolate Grundo (r77) : 1456
+Chokato Chia Treat (r77) : 1012
+Apple Gummy Book (r77) : 1426
+Wine Gums (r77) : 2767
+Chocolate Jetsam Fin (r77) : 718
+Swirly Mint Mynci (r77) : 2287
+Gummy Durian Chia (r77) : 1331
+Chunky Cherry Grarrl Gobstopper (r77) : 1913
+Dark Chocolate Ruki (r77) : 2912
+White Chocolate Gnorbu (r77) : 1135
+White Chocolate Hissi (r77) : 1103
+Kau Sorbet (r78) : 4321
+Electric Gormball Gumball (r78) : 1467
+Yellow Lab Jellies Chocolate Bar (r78) : 1996
+Swirly Chocolate Mynci (r78) : 1125
+Blobbule Snorkle Lollypop (r78) : 1395
+Half-eaten Candy Floss (r78) : 1136
+Sour Candy Hearts (r78) : 1856
+Caramel Creams (r78) : 665
+Orange Gummy Book (r78) : 1421
+Fruity Gormball Gumball (r78) : 886
+Orange Chocolate Jetsam (r78) : 1523
+Hard Doughnutfruit Candies (r78) : 3106
+Chocolate Turkey (r78) : 1635
+Elderberry Achyfi Lollypop (r78) : 595
+Rainbow Gelert Lollypop (r78) : 3260
+Caramel Dipped Skeith Wings (r78) : 2231
+Milk Chocolate Krawk Coin (r78) : 1173
+Pineapple Cubes (r78) : 1687
+Pink Gormball Gumball (r78) : 1093
+Swirly Chocolate Hissi (r78) : 691
+Valentines Chocolate Selection (r79) : 1684
+Orange Chocolate JubJub (r79) : 2486
+Peanut Brittles (r79) : 1815
+Sugared Elephante Feet (r79) : 2013
+Grape Gummy Book (r79) : 1482
+Rose Lollyswirl (r79) : 1167
+Aplets (r79) : 520
+Longan Lollypop (r79) : 1894
+Pink Lab Jellies Candy (r79) : 1272
+Buzz Honey Lolly (r79) : 1587
+Milk Chocolate Mynci (r79) : 2350
+Nutty Chocolate Negg (r79) : 992
+Mint Chocolate Krawk Coin (r79) : 1419
+Dark Chocolate Pellets (r79) : 1482
+Milk Chocolate Gnorbu (r79) : 1215
+Jelly Wocky (r79) : 1464
+Chocolate Draik Wing (r79) : 2599
+Raspberry Achyfi Lollypop (r79) : 789
+Orange Chocolate Kau (r79) : 993
+Torpedos (r79) : 1160
+Creme Filled Chocolate Negg (r75) : 1520
+Chocolate Kau Pat (r75) : 1994
+Gummy Fish (r75) : 1870
+Treasure Sweets (r76) : 1278
+Blueberry Gummy Peophin (r76) : 754
+Dark Chocolate Blumaroo (r77) : 2508
+Balloon-Shaped Rainbow Candy (r78) : 669
+Dark Chocolate Hissi (r79) : 2704
+Mint Chocolate Gnorbu (r78) : 1833
+Mint Chocolate Usul (r78) : 2039
+White Chocolate Pellets (r78) : 2034
+Gummy Worm Lollypop (r79) : 1337
+Tigerbuggle Chia Treat (r79) : 935
+Uni Pops (r76) : 1366
+White Chocolate Mynci (r76) : 1006
+Lime Tonu Hard Candy (r55) : 721
+Blue Berry Tonu Hard Candy (r56) : 2059
+Blue Lupe Paw Lolly (r57) : 772
+Red Gem Candy (r58) : 1211
+Red Nimmo Foot Lolly (r59) : 1489
+Green Gem Candy (r60) : 1108
+Bar of Chocolate (r60) : 982
+Dark Chocolate Pteri (r60) : 3070
+Heart Breath Mints (r70) : 2725
+Jhudora Thorn Pops (r70) : 1506
+Chocolate Apple (r70) : 914
+Stone Gummy Die (r70) : 4173
+Milk Chocolate Pteri (r70) : 2416
+Chocolate Cherry Moehog (r70) : 2228
+Mint Jelly A (r70) : 2951
+Choco-Vanilla Korbat Cake (r70) : 2137
+Strawberry Toffee Chokato (r70) : 1972
+Kau Cookie (r70) : 1803
+Sour Gummy Skeith Tail (r70) : 1395
+White Chocolate Buzz (r70) : 1758
+Lemon Sherbert Candy Cane (r70) : 1372
+Cherry Peophin Lollypop (r70) : 2178
+Chewy Licorice Aisha Ears (r70) : 2674
+Caramel Mynci Apple (r70) : 1380
+Acara Jelly Pops (r70) : 1993
+Cybunny Chocolate Egg (r72) : 1118
+Cherry Wocky Lollypop (r72) : 597
+Chocolate Soup (r72) : 1153
+Chocolate Chia Candy (r72) : 798
+Mostly Orange Candy Sticks (r73) : 996
+Chocolate Spaghetti (r74) : 1407
+Chocolate Chia Lolly (r74) : 1097
+Flying Saucers (r70) : 1467
+Kyrii Cracker (r50) : 1014
+Lime Gummy Die (r65) : 1509
+Lime Toffee Juppie (r70) : 1794
+Chocolate Silver Coins (r70) : 1127
+Milk Chocolate Techo (r70) : 4926
+Swirly Chocolate Egg (r70) : 1576
+Fruity Taffy (r72) : 701
+Furry Fury Grarrl Gobstopper (r73) : 2494
+Lemon Nimmo Bites (r70) : 2440
+Chocolate Coated Candy Cane (r45) : 1828
+Crunchy Korbat Cookie (r60) : 827
+Milk Chocolate A (r60) : 2219
+Gummy Kacheek Tail (r60) : 1111
+Milk Chocolate Peophin (r60) : 562
+Strawberry Vampire Pop (r60) : 862
+Starry Scorchio Lollypop (r60) : 1293
+Orange Neodrops (r60) : 1090
+Milk Chocolate Moehog (r60) : 1110
+Melted Chocolate Negg (r60) : 242
+White Chocolate Aisha (r60) : 844
+Milk Chocolate Skeith (r60) : 1261
+Milk Chocolate Grarrl (r60) : 653
+Nova Breath Mints (r60) : 2255
+Blueberry Jelly Beans (r60) : 1850
+Lime Nimmo Bites (r60) : 1183
+Maraquan Shoyru Fin Lolly (r62) : 1122
+Aisha Lollypops (r63) : 889
+Orange Gelert Lollypop (r64) : 1142
+Lime Jelly Usul (r64) : 1127
+Economy Jelly Beans (r65) : 936
+Green Gummy Quiggles (r65) : 1713
+Milk Chocolate Kiko (r45) : 1575
+Lime Grarrl Gummy (r65) : 1346
+Chocolate Candy Filled Negg (r65) : 481
+White Chocolate Shoyru (r65) : 1345
+Milk Chocolate Shoyru (r68) : 1306
+Lemon Tulip Lollypop (r65) : 529
+Grapefruit Gelert Lollypop (r66) : 1603
+Jewelled Breath Mints (r65) : 1071
+Melon Chews (r65) : 835
+Starry Scorchio Chocolate Egg (r65) : 1163
+Patterned Chocolate Negg (r65) : 579
+Milk Chocolate Eyrie (r65) : 575
+Lime Jelly Flotsam (r65) : 905
+Raspberry Jelly A (r65) : 996
+Gwernial Gelert Lollypop (r65) : 761
+White Chocolate Elephante (r65) : 625
+White Chocolate Flotsam (r65) : 714
+Blueberry Neodrops (r65) : 1030
+Banana Candy Rock (r66) : 1279
+Lime Candy Rock (r66) : 1341
+White Chocolate Kougra (r66) : 1447
+Candy Filled Negg (r66) : 337
+Grape Gummy Gem (r66) : 1014
+Wartroot Jelly Beans (r66) : 1527
+Strawberry Grarrl Gummy (r66) : 1586
+Orange Chocolate Kougra (r67) : 2249
+Grape Grarrl Gummy (r67) : 1695
+Jelly Bean Filled Negg (r67) : 376
+Red Gummy Quiggles (r67) : 2087
+Rock Candy (r67) : 1555
+Gemmy Beans (r67) : 1916
+Strawberry Jelly Usul (r68) : 3238
+Milk Chocolate Jetsam (r68) : 355
+Yellow Gummy Quiggles (r68) : 1764
+Assorted Gummy Quiggles (r68) : 2584
+Raspberry Gummy Skeith Tail (r69) : 1395
+Milk Chocolate Kougra (r69) : 2364
+Strong Mints (r69) : 1363
+Gummy Gem Cupcake (r69) : 1502
+Peanut Butter Chocolate Shoyru (r66) : 1449
+Orange Chocolate Shoyru (r67) : 1166
+Lemon Grarrl Gummy (r68) : 2273
+Black Currant Nimmo Bites (r68) : 1818
+Glowing Gelert Lollypop (r67) : 1387
+Kyrii Treats (r45) : 544
+Oozing Chocolate Heart (r46) : 1575
+White Chocolate Nimmo (r50) : 484
+White Chocolate Lupe (r50) : 882
+Chocolate Chia (r50) : 856
+Lemon Neodrops (r50) : 728
+White Chocolate Kacheek (r50) : 2546
+Chocolate Flakes (r50) : 2073
+White Chocolate Skeith (r50) : 3364
+White Chocolate Pteri (r50) : 498
+Candy Chia Apple (r50) : 1069
+Milk Chocolate Aisha (r50) : 1335
+White Chocolate Ogrin (r50) : 438
+White Chocolate Korbat (r50) : 156
+White Chocolate Lenny (r50) : 1384
