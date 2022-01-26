@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Inventory Duplicate Checker
+// @name         NPC - Inventory Duplicate Checker
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Checks items in your inventory and displays a list of any duplicates (this one's for you, kad invent feeders)
